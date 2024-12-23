@@ -1,0 +1,2 @@
+# Ofbiz
+gestion de stock
